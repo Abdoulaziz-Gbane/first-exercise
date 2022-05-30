@@ -1,3 +1,3 @@
 # DEVOIR NOTE PAR LES PAIRS
-2022-05-30 15:59:48
-26
+1. (date +%Y-%m-%d %T)
+2. (wc --lines < guessinggame.sh)
